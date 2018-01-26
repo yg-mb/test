@@ -1,3 +1,3 @@
 # test
 test
-This is [http://ttmai.com](http://baidu.com/ "Title") inline link.
+This is [http://ttmai.com](http://qq.com/ "Title") inline link.
