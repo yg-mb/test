@@ -1,3 +1,3 @@
 # test
 test
-This is [an example](http://example.com/ "Title") inline link.
+This is [http://ttmai.com](http://baidu.com/ "Title") inline link.
